@@ -19,6 +19,9 @@ cd ./install-docker
 ````
 
 
+# How to manually install docker and docker-compose
+
+If you want to you can follow this steps manually on your own to install docker, docker-compose and remove the need for sudo
 
 ## Docker
 
