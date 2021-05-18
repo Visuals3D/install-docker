@@ -15,6 +15,7 @@ cd ./install-docker
 ````
 
 ````shell
+sudo chmod +x install-docker.sh
 ./install-docker.sh
 ````
 
