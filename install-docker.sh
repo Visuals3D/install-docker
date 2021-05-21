@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # --------------------- Install docker ---------------
 
 echo "Installing Docker..."
