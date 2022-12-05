@@ -26,7 +26,7 @@ sudo docker --version # see isntalled version if everything is installed correct
 
 echo "Installing docker-compose..."
 
-sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose # download package
+sudo curl -L "https://github.com/docker/compose/releases/download/2.14.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose # download package
 
 sudo chmod +x /usr/local/bin/docker-compose # make it executlable
 
